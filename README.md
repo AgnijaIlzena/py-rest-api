@@ -5,7 +5,7 @@ py-rest-api
 cd pyrestapi
 
 ## create and run migrations
-py manage.py makemigrations
+py manage.py makemigrations  
 py manage.py migrate
 
 ## fill data in the local sqlite3 database running command
